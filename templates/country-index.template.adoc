@@ -1,0 +1,25 @@
+= {country-name}
+:iso3: {iso3}
+:iso2: {iso2}
+:wdid: {wdid}
+:last-updated: {last-updated}
+:release: {release}
+
+== Overview
+A concise, descriptive summary of the country or territory based on registered
+sources. This section may be AI-assisted but must not introduce unsourced facts.
+footnote:[Primary sources listed in the Sources Registry.]
+
+== Key Indicators
+[cols="1,1,1,1",options="header"]
+|===
+| Indicator | Value | Year | Source
+| Population | {population} | {population-year} | footnote:[World Bank, SP.POP.TOTL, {population-year}.]
+| GDP (current US$) | {gdp} | {gdp-year} | footnote:[World Bank, NY.GDP.MKTP.CD, {gdp-year}.]
+| GDP per capita (US$) | {gdp-per-capita} | {gdp-per-capita-year} | footnote:[World Bank, NY.GDP.PCAP.CD, {gdp-per-capita-year}.]
+|===
+
+== Sources & Notes
+* All values reflect the most recent year available at release time.
+* Sources are documented in `/sources/registry.yml`.
+* This profile corresponds to release `{release}`.

@@ -1,0 +1,35 @@
+= Code of Conduct
+:icons: font
+
+This project is committed to maintaining a respectful, professional, and
+inclusive environment for all contributors and users.
+
+== Our Pledge
+We pledge to treat all participants with respect and to foster open,
+constructive collaboration focused on the quality and integrity of the work.
+
+== Expected Behavior
+* Be respectful and considerate in language and tone
+* Provide constructive, evidence-based feedback
+* Assume good faith in discussions and reviews
+* Focus on improving the content, not winning arguments
+
+== Unacceptable Behavior
+* Harassment, discrimination, or hate speech
+* Personal attacks or threats
+* Publishing private or identifying information without consent
+* Persistent disruptive or bad-faith behavior
+
+== Enforcement
+Project maintainers are responsible for interpreting and enforcing this
+Code of Conduct.
+
+Consequences for unacceptable behavior may include:
+* Warning
+* Temporary restriction from participation
+* Permanent removal from the project
+
+== Reporting
+If you experience or witness unacceptable behavior, open a GitHub issue
+labeled `conduct` or contact the maintainers through the organization
+associated with this repository.

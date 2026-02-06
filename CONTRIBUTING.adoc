@@ -1,0 +1,67 @@
+= Contributing to PIL Factbook
+:toc: left
+:toclevels: 2
+:icons: font
+
+Thank you for your interest in contributing. This project values clarity,
+neutrality, and verifiable sourcing above all else.
+
+== Guiding Principles
+* Content must be descriptive, not prescriptive
+* Avoid advocacy, opinion, or partisan framing
+* Prefer primary, authoritative public data sources
+* Every factual claim should be attributable
+
+== Contribution Workflow
+. Fork the repository
+. Create a feature branch
+. Make your changes
+. Open a Pull Request (PR) with a clear description
+
+All PRs are reviewed for:
+* Structural consistency
+* Sourcing and citation quality
+* Tone and neutrality
+* Compliance with the style guide
+
+== Country Profile Structure
+Each country or territory lives at:
+
+`profiles/by-iso/<ISO3>/index.adoc`
+
+Directory names must use ISO 3166-1 alpha-3 codes unless otherwise documented.
+
+== Required Metadata
+Every country profile must include the following attributes at the top
+of the file:
+
+[source,adoc]
+----
+:iso3:
+:iso2:
+:wdid:
+:last-updated:
+:release:
+----
+
+== Citations
+Use AsciiDoc footnotes for citations:
+
+`Statement here.footnote:[Source name, dataset or table, year, identifier or URL.]`
+
+Numeric values, rankings, superlatives, and time-bound statements must be cited.
+
+== Adding New Sources
+If a new source is introduced:
+* Add it to `sources/registry.yml`
+* Include licensing and attribution notes
+* Reference it consistently in content
+
+== What Not to Submit
+* Unsourced factual claims
+* Editorial commentary or opinion
+* Speculative analysis
+* Content copied from proprietary sources
+
+== Questions
+Open a GitHub issue labeled `question` if guidance is needed.

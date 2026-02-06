@@ -1,0 +1,67 @@
+= Content Schema
+:toc: left
+:toclevels: 2
+:icons: font
+
+This document defines the minimum content schema for country and territory
+profiles in the PIL Factbook.
+
+The schema is intentionally simple and extensible to support both human-
+authored and AI-assisted generation.
+
+== Country Profile Schema
+
+Each country profile is represented by a directory:
+
+`profiles/by-iso/<ISO3>/`
+
+At minimum, the directory must contain:
+
+* `index.adoc` — the canonical country profile
+
+== Required Metadata
+Each `index.adoc` must include the following attributes at the top of the file:
+
+[source,adoc]
+----
+:iso3: ISO 3166-1 alpha-3 code
+:iso2: ISO 3166-1 alpha-2 code
+:wdid: Wikidata Q identifier
+:last-updated: YYYY-MM-DD
+:release: YYYY.MM
+----
+
+== Required Sections (v0.1)
+The following sections are required for the initial release:
+
+. Overview
+. Key Indicators
+. Sources & Notes
+
+== Recommended Sections
+The following sections are recommended as the project expands:
+
+. Geography
+. People & Demographics
+. Government
+. Economy
+. Infrastructure
+. Security
+
+== Key Indicators Table
+The `Key Indicators` section should include a table with, at minimum:
+
+* Population
+* GDP (current US$)
+* GDP per capita
+
+Each value must include:
+* Year
+* Unit
+* Source citation
+
+== Extensibility
+Additional sections and indicators may be added over time, provided they:
+* Follow the style guide
+* Include sourcing
+* Are documented in this schema if they become standard

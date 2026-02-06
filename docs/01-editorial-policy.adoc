@@ -1,0 +1,46 @@
+= Editorial Policy
+:toc: left
+:toclevels: 2
+:icons: font
+
+This editorial policy governs all content published in the PIL Factbook.
+
+== Purpose
+The PIL Factbook exists to provide a descriptive, reference-style overview of
+countries and territories based on verifiable public information.
+
+== Neutrality and Scope
+* Content must remain descriptive and non-prescriptive
+* Avoid advocacy, political persuasion, or normative judgments
+* Present facts and widely accepted interpretations
+* Clearly label disputed or contested claims
+
+== Contested Territories and Naming
+* Use ISO 3166 conventions for directory naming where applicable
+* When names or status are disputed, note alternative names or claims in text
+* Prefer UN-style terminology in headings
+* Avoid implying recognition or endorsement
+
+== Source Hierarchy
+When multiple sources are available, prioritize in this order:
+
+. Primary international statistical agencies (UN, World Bank, IMF, WHO, ITU)
+. National statistical offices
+. Intergovernmental organizations
+. Reputable research institutions
+. Wikidata and Wikipedia for identifiers and linkage (not sole authority)
+
+== Sourcing Requirements
+* Numeric values must be sourced
+* Rankings, superlatives, and time-bound claims must be sourced
+* AI-generated content must not introduce new facts without citations
+
+== AI-Assisted Content
+AI tools may be used to draft summaries or reorganize sourced material, but:
+* All generated content is subject to human review
+* All factual content must trace back to registered sources
+* Model-generated speculation is prohibited
+
+== Corrections
+Errors should be corrected via pull request with a clear explanation and
+supporting sources.

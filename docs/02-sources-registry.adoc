@@ -1,0 +1,54 @@
+= Sources Registry
+:toc: left
+:toclevels: 2
+:icons: font
+
+This document describes how sources are registered, referenced, and governed
+within the PIL Factbook.
+
+The authoritative list of sources lives in:
+
+`/sources/registry.yml`
+
+== Purpose
+The sources registry exists to:
+* Provide transparency into where data originates
+* Clarify licensing and attribution requirements
+* Support automated validation and regeneration
+* Prevent unsourced or low-quality data from entering the system
+
+== Registry Structure
+Each source entry in `registry.yml` includes:
+
+* `id` — short, stable identifier
+* `name` — human-readable source name
+* `type` — API, CSV, portal, report, etc.
+* `url` — canonical homepage or endpoint
+* `license` — data license or usage terms
+* `refresh` — expected update cadence
+* `notes` — attribution rules or caveats
+
+== Using Sources in Content
+When referencing a source in a country profile:
+* Use the source name in the footnote
+* Include dataset names, indicator codes, or table identifiers where possible
+* Include the year of the data
+
+Example:
+
+`Population (2024): 10,000,000.footnote:[World Bank Open Data, SP.POP.TOTL, 2024.]`
+
+== Adding a New Source
+To add a new source:
+. Update `sources/registry.yml`
+. Include licensing and attribution details
+. Reference the source consistently in content
+. Submit changes via pull request
+
+== Deprecating Sources
+Sources may be deprecated if:
+* Licensing changes
+* Data quality degrades
+* Updates cease
+
+Deprecated sources should remain documented with a clear status note.

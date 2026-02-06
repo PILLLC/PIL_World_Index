@@ -1,0 +1,42 @@
+version: 0.1
+
+sources:
+  - id: world_bank
+    name: World Bank Open Data
+    type: api
+    url: https://data.worldbank.org/
+    license: "CC BY 4.0 (confirm per dataset)"
+    refresh: monthly
+    notes: >
+      Use indicator codes (e.g., SP.POP.TOTL).
+      Attribute dataset name, indicator code, and year in citations.
+
+  - id: undata
+    name: UNData
+    type: portal
+    url: https://data.un.org/
+    license: "Varies by dataset"
+    refresh: quarterly
+    notes: >
+      Prefer direct UN agency datasets where possible.
+      Include agency name (e.g., UN DESA) when known.
+
+  - id: who
+    name: World Health Organization
+    type: portal
+    url: https://www.who.int/data
+    license: "Varies by dataset"
+    refresh: annual
+    notes: >
+      Common indicators include life expectancy and health system metrics.
+      Cite dataset title and publication year.
+
+  - id: itut
+    name: International Telecommunication Union
+    type: portal
+    url: https://www.itu.int/en/ITU-D/Statistics
+    license: "Varies by dataset"
+    refresh: annual
+    notes: >
+      Used for telecom and internet usage indicators.
+      Include indicator name and year in citations.

@@ -1,0 +1,69 @@
+= Style Guide
+:toc: left
+:toclevels: 2
+:icons: font
+
+This style guide defines the structural, tonal, and citation standards for all
+content in the PIL Factbook.
+
+== Core Rules
+* Use stable section ordering across all country profiles
+* Prefer short paragraphs and clear sentences
+* Place quantitative information in tables where practical
+* Cite all factual claims, especially numeric values and rankings
+
+== Required Metadata
+Every country profile must begin with the following attributes:
+
+[source,adoc]
+----
+= Country Name
+:iso3: XXX
+:iso2: XX
+:wdid: Q000
+:last-updated: YYYY-MM-DD
+:release: YYYY.MM
+----
+
+== Section Ordering
+The recommended section order is:
+
+. Overview
+. Key Indicators
+. Geography
+. People & Demographics
+. Government
+. Economy
+. Infrastructure
+. Security
+. Sources & Notes
+
+== Tone and Language
+* Neutral and descriptive
+* Avoid evaluative or emotive language
+* Avoid policy recommendations or advocacy
+* Avoid loaded terms unless attributed to a source
+
+== Citations
+Use AsciiDoc footnotes:
+
+`Population (2024): 10,000,000.footnote:[World Bank, SP.POP.TOTL, 2024.]`
+
+If a URL is necessary, include it in the footnote.
+
+== Tables
+Use simple tables with headers:
+
+[source,adoc]
+----
+[cols="1,1,1",options="header"]
+|===
+| Indicator | Value | Source
+| Population (year) | X | footnote:[...]
+|===
+----
+
+== Dates and Numbers
+* Use ISO 8601 dates (YYYY-MM-DD)
+* Use commas for thousands
+* Specify units explicitly
