@@ -25,11 +25,11 @@ relationships:
     sources:
       - id: nato-relations-ukraine
         title: "NATO Relations with Ukraine (official overview)"
-        url: "TBD"
+        url: "https://www.nato.int/cps/en/natohq/topics_37750.htm"
         accessed: "2026-02-07"
       - id: nato-ukr-nato-commission
         title: "NATO–Ukraine Commission / partnership mechanisms (official)"
-        url: "TBD"
+        url: "https://www.nato.int/cps/en/natohq/topics_37751.htm"
         accessed: "2026-02-07"
     notes:
       - "Replace TBD URLs with official NATO pages and/or formal documents."
@@ -45,7 +45,7 @@ relationships:
     sources:
       - id: nato-member-countries
         title: "NATO member countries (official list)"
-        url: "TBD"
+        url: "https://www.nato.int/cps/en/natohq/nato_countries.htm"
         accessed: "2026-02-07"
 
   - id: rel-jpn-nato-partner-001
@@ -61,5 +61,5 @@ relationships:
     sources:
       - id: nato-relations-japan
         title: "NATO relations with Japan (official overview)"
-        url: "TBD"
+        url: "https://www.nato.int/cps/en/natohq/topics_50336.htm"
         accessed: "2026-02-07"
