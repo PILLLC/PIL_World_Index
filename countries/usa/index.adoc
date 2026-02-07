@@ -6,18 +6,21 @@
 :release: 2026.02.07
 
 == Overview
-United States is included in the PIL World Index as an MVP exemplar profile. This overview is intentionally conservative and should be replaced with a sourced summary once pipelines are connected. footnote:[Primary sources are tracked in the Sources Registry.]
+The United States is a federal constitutional republic composed of 50 states and a federal district.
+It has the world’s largest nominal economy and plays a central role in global finance, security,
+technology, and governance. The country operates under a separation-of-powers system with authority
+divided between federal, state, and local governments. footnote:[Primary sources listed in the Sources Registry.]
 
 == Key Indicators
 [cols="1,1,1,1",options="header"]
 |===
 | Indicator | Value | Year | Source
-| Population | (TBD) | (TBD) | footnote:[World Bank, SP.POP.TOTL, (TBD).]
-| GDP (current US$) | (TBD) | (TBD) | footnote:[World Bank, NY.GDP.MKTP.CD, (TBD).]
-| GDP per capita (US$) | (TBD) | (TBD) | footnote:[World Bank, NY.GDP.PCAP.CD, (TBD).]
+| Population | ~334 million | 2023 | footnote:[World Bank, SP.POP.TOTL, 2023.]
+| GDP (current US$) | ~$27.4 trillion | 2023 | footnote:[World Bank, NY.GDP.MKTP.CD, 2023.]
+| GDP per capita (US$) | ~$82,000 | 2023 | footnote:[World Bank, NY.GDP.PCAP.CD, 2023.]
 |===
 
 == Sources & Notes
-* MVP placeholder values will be replaced by scripted data pulls.
-* Sources are documented in `/sources/registry.yml`.
+* Indicator values are rounded for readability; authoritative values are maintained in the data source.
+* Primary quantitative indicators are sourced from the World Bank.
 * This profile corresponds to release `2026.02.07`.

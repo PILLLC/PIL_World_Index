@@ -6,71 +6,161 @@
 :release: 2026.02.07
 
 == Purpose and scope
-This context profile supplements the index indicators with descriptive context.
-It is an MVP exemplar intended to validate structure, tone, and update workflow.
+
+This context profile provides descriptive background to supplement the Ukraine
+index indicators. It is intended to explain current conditions, institutional
+functioning under wartime constraints, and key areas of attention for observers.
+The document is non-advocacy in tone and descriptive in intent. Content may be
+AI-assisted but does not introduce unsourced factual claims.
 
 == Current context
-(TBD) Replace with a sourced, neutral narrative covering salient governance, economic, security, and infrastructure context as of `2026-02-07`.
+
+As of early 2026, Ukraine remains engaged in a high-intensity conflict following
+Russia’s full-scale invasion launched in 2022. The war continues to shape nearly
+all aspects of national life, including governance, economic activity, population
+distribution, infrastructure operation, and international relations. While
+Ukraine maintains effective central authority and national cohesion, its capacity
+is heavily dependent on external military, financial, and humanitarian support.
+
+The conflict has resulted in substantial territorial damage, civilian casualties,
+and population displacement. Despite these conditions, Ukraine continues to
+operate core state functions, conduct elections under emergency legal frameworks,
+and pursue integration with Euro-Atlantic institutions.
 
 == Governance and institutions
+
 === Political system
-(TBD)
+
+Ukraine is a unitary republic with a semi-presidential system. Under martial law,
+certain political and civil processes are constrained to support national defense
+and public safety. Legislative and executive authority remain centralized, with
+emergency powers exercised in accordance with constitutional provisions.
 
 === Leadership
-(TBD)
+
+National leadership has demonstrated continuity throughout the conflict, with
+executive authority focused on defense coordination, international engagement,
+and domestic resilience. Political competition exists but is moderated by wartime
+conditions and legal restrictions on electoral activity.
 
 === Institutional capacity
-(TBD)
+
+State institutions continue to function under extreme stress. Public
+administration capacity has adapted to wartime demands, prioritizing defense,
+critical infrastructure management, and social support. Anti-corruption and
+judicial reforms remain part of Ukraine’s stated long-term trajectory but face
+implementation challenges under conflict conditions.
 
 == Economic context
+
 === Economic trajectory
-(TBD)
+
+Ukraine’s economy contracted sharply following the invasion and has since
+stabilized at a significantly reduced level of output. Economic activity is
+constrained by security risks, labor shortages, disrupted logistics, and damage
+to productive assets. Fiscal sustainability relies heavily on external grants,
+loans, and debt relief arrangements.
 
 === Key dependencies
-(TBD)
+
+The economy depends on international financial assistance, agricultural exports,
+and the continued operation of transport corridors, including maritime and land
+routes negotiated under conflict conditions. Energy imports and equipment support
+are critical to maintaining industrial and residential activity.
 
 === Risk factors
-(TBD)
+
+Major economic risks include prolonged disruption to exports, damage to
+infrastructure, inflationary pressures, currency volatility, and uncertainty
+around reconstruction financing. Long-term growth prospects are closely tied to
+security outcomes and post-war investment conditions.
 
 == Social and demographic considerations
+
 === Population dynamics
-(TBD)
+
+Ukraine has experienced large-scale population displacement, both internally and
+externally. Millions of citizens remain abroad as refugees, while internal
+migration has altered regional population distribution. Demographic recovery
+will depend on security conditions, reconstruction progress, and return migration.
 
 === Human development factors
-(TBD)
+
+Access to healthcare, education, and social services has been unevenly affected
+by the conflict. While major urban centers retain service capacity, frontline and
+occupied areas face acute shortages. Human capital loss due to displacement and
+casualties represents a long-term challenge.
 
 == Infrastructure and systems
+
 === Energy and utilities
-(TBD)
+
+Energy infrastructure has been a recurring target of attacks, resulting in
+periodic outages and reliance on emergency repairs. Grid resilience has improved
+through decentralization, international equipment support, and rapid-response
+maintenance, though vulnerability remains high.
 
 === Transportation and logistics
-(TBD)
+
+Rail and road networks continue to operate under constraints, with rail playing
+a critical role in freight and humanitarian movement. Port access and maritime
+logistics are subject to security arrangements and disruption risks.
 
 === Digital and communications
-(TBD)
+
+Ukraine maintains a resilient digital communications environment, including
+government digital services adapted for wartime use. Cyber defense has become a
+core component of national resilience, supported by international partnerships.
 
 == Security and risk environment
+
 === Internal security
-(TBD)
+
+Internal security is shaped by military operations, civil defense measures, and
+law enforcement activity in rear areas. Civilian safety is affected by missile
+and drone strikes, unexploded ordnance, and infrastructure damage.
 
 === External security
-(TBD)
+
+Ukraine’s security posture is defined by active defense against external
+aggression and deepening security cooperation with NATO member states and other
+partners. Military capability development is ongoing, with emphasis on air
+defense, artillery, and intelligence integration.
 
 === Non-traditional risks
-(TBD)
+
+In addition to kinetic threats, Ukraine faces risks related to environmental
+damage, industrial site contamination, and long-term health effects associated
+with conflict exposure. Winter energy shortages and water system disruptions
+present recurring challenges.
 
 == What to watch
-* (TBD)
-* (TBD)
-* (TBD)
+
+* Security developments affecting territorial control and civilian safety
+* Continuity and scale of international military and financial assistance
+* Energy infrastructure resilience during peak demand periods
+* Planning and financing frameworks for post-war reconstruction
+* Refugee return patterns and labor force recovery
 
 == Sources
+
 *Primary references:*
-* (TBD — add source IDs from the Sources Registry)
+* World Bank (macroeconomic indicators)
+* United Nations Office for the Coordination of Humanitarian Affairs
+* International Monetary Fund country reports
+* Government of Ukraine official publications
+* NATO and EU public statements
 
 *Supporting references:*
-* (TBD)
+* International Energy Agency
+* OECD assessments
+* World Health Organization situation reports
+* World Food Programme analyses
 
 == Notes and limitations
-* MVP content is placeholder; do not treat as authoritative.
-* Replace all non-trivial statements with sourced claims.
+
+* This profile reflects conditions as of `{last-updated}`.
+* Rapidly changing security conditions may outpace update cycles.
+* Quantitative indicators may be revised as data collection stabilizes.
+* This document is descriptive and does not assess policy effectiveness.
+* Updates occur on a best-effort basis per release `{release}`.

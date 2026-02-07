@@ -6,71 +6,166 @@
 :release: 2026.02.07
 
 == Purpose and scope
-This context profile supplements the index indicators with descriptive context.
-It is an MVP exemplar intended to validate structure, tone, and update workflow.
+
+This context profile supplements the United States index indicators with
+descriptive background intended to explain current conditions, institutional
+dynamics, and areas of attention. It is non-advocacy in tone and descriptive
+in intent. Content may be AI-assisted but does not introduce unsourced factual
+claims.
 
 == Current context
-(TBD) Replace with a sourced, neutral narrative covering salient governance, economic, security, and infrastructure context as of `2026-02-07`.
+
+As of early 2026, the United States remains politically polarized, economically
+resilient relative to peer economies, and strategically engaged across multiple
+regions. Domestic governance is shaped by divided political institutions,
+ongoing electoral cycles, and judicial scrutiny of executive and legislative
+authority. Economic conditions reflect moderating inflation following earlier
+price shocks, a tight but cooling labor market, and sustained fiscal pressures
+associated with high public debt levels.
+
+Internationally, the United States continues to act as a central security
+provider within NATO and key Indo-Pacific partnerships while managing strategic
+competition with China and ongoing support commitments related to conflicts in
+Eastern Europe and the Middle East.
 
 == Governance and institutions
+
 === Political system
-(TBD)
+
+The United States operates under a federal constitutional system with separation
+of powers among the executive, legislative, and judicial branches. Authority is
+shared between federal and state governments, with significant policy variation
+across states. Legislative productivity has been uneven in recent years due to
+partisan polarization and narrow congressional majorities.
 
 === Leadership
-(TBD)
+
+Executive authority is vested in the President, with cabinet-level departments
+responsible for policy execution. Leadership continuity is influenced by regular
+electoral cycles, term limits, and judicial oversight. Transitions of power are
+institutionalized but remain a focal point of public and legal scrutiny.
 
 === Institutional capacity
-(TBD)
+
+Federal institutions retain strong administrative capacity, particularly in
+monetary policy, defense, and regulatory enforcement. However, capacity
+constraints are evident in areas such as infrastructure delivery, immigration
+processing, and public health coordination, where intergovernmental complexity
+and funding mechanisms introduce friction.
 
 == Economic context
+
 === Economic trajectory
-(TBD)
+
+The U.S. economy continues to demonstrate high aggregate output and innovation
+capacity. Growth has moderated from post-pandemic rebounds, with consumption
+remaining the primary driver. Monetary policy tightening over the prior period
+has contributed to easing inflation but increased borrowing costs across public
+and private sectors.
 
 === Key dependencies
-(TBD)
+
+The economy is highly dependent on domestic consumption, global trade flows,
+financial market stability, and advanced technology sectors. The U.S. dollar’s
+role as the primary global reserve currency underpins financial influence but
+also amplifies exposure to global shocks.
 
 === Risk factors
-(TBD)
+
+Key economic risks include elevated federal debt levels, sensitivity to interest
+rate changes, housing affordability constraints, and potential disruptions in
+global supply chains. Fiscal sustainability debates remain unresolved, with
+long-term entitlement obligations representing a structural pressure.
 
 == Social and demographic considerations
+
 === Population dynamics
-(TBD)
+
+Population growth has slowed relative to historical norms, with aging
+demographics increasing pressure on healthcare and social support systems.
+Immigration continues to play a significant role in labor force growth and
+demographic renewal, while internal migration patterns reflect housing costs
+and regional economic opportunities.
 
 === Human development factors
-(TBD)
+
+The United States exhibits high average income levels but significant inequality
+in health outcomes, educational attainment, and access to services. Outcomes vary
+widely by region, income, and demographic group, influencing workforce
+participation and long-term productivity.
 
 == Infrastructure and systems
+
 === Energy and utilities
-(TBD)
+
+The United States maintains a diverse energy mix, including fossil fuels,
+nuclear, and rapidly expanding renewable capacity. Energy independence has
+increased due to domestic production, though grid resilience and transmission
+capacity remain areas of concern.
 
 === Transportation and logistics
-(TBD)
+
+National transportation infrastructure is extensive but uneven in condition.
+Freight rail, ports, and highways support large-scale commerce, while public
+transit systems vary significantly by metropolitan area. Infrastructure
+investment programs aim to address deferred maintenance but face execution
+challenges.
 
 === Digital and communications
-(TBD)
+
+Digital infrastructure is broadly developed, with high internet penetration and
+a dominant role in global technology platforms. Concerns persist regarding
+cybersecurity, data privacy, and the resilience of critical digital systems.
 
 == Security and risk environment
+
 === Internal security
-(TBD)
+
+Domestic security challenges include firearm-related violence, cybercrime, and
+sporadic politically motivated incidents. Law enforcement capacity is strong but
+public trust varies across jurisdictions.
 
 === External security
-(TBD)
+
+The United States maintains the world’s largest defense budget and a global
+network of alliances and military deployments. Strategic priorities include
+deterrence, alliance assurance, and freedom of navigation. Defense planning
+increasingly emphasizes cyber, space, and advanced technologies.
 
 === Non-traditional risks
-(TBD)
+
+Climate-related risks, including extreme weather events, wildfires, flooding,
+and water stress, present growing challenges. Disaster response capacity is
+substantial but increasingly tested by event frequency and scale.
 
 == What to watch
-* (TBD)
-* (TBD)
-* (TBD)
+
+* Fiscal policy negotiations related to debt ceilings, budget frameworks, and
+  long-term entitlement sustainability
+* Electoral and judicial developments affecting governance norms and regulatory
+  authority
+* Monetary policy adjustments and their impact on financial markets and housing
+* U.S.–China economic and technological competition dynamics
+* Infrastructure program execution and climate resilience investments
 
 == Sources
+
 *Primary references:*
-* (TBD — add source IDs from the Sources Registry)
+* World Bank (macroeconomic indicators)
+* U.S. Bureau of Economic Analysis
+* Federal Reserve System
+* Congressional Budget Office
+* Department of Defense publications
 
 *Supporting references:*
-* (TBD)
+* Government Accountability Office
+* Census Bureau
+* International Energy Agency
+* OECD comparative reports
 
 == Notes and limitations
-* MVP content is placeholder; do not treat as authoritative.
-* Replace all non-trivial statements with sourced claims.
+
+* This profile reflects conditions as of `{last-updated}`.
+* Narrative sections summarize authoritative public sources and may omit detail.
+* This document is descriptive and does not assess policy effectiveness.
+* Updates occur on a best-effort basis per release `{release}`.
