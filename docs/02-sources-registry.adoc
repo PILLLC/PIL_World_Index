@@ -12,6 +12,7 @@ The authoritative list of sources lives in:
 
 == Purpose
 The sources registry exists to:
+
 * Provide transparency into where data originates
 * Clarify licensing and attribution requirements
 * Support automated validation and regeneration
@@ -30,6 +31,7 @@ Each source entry in `registry.yml` includes:
 
 == Using Sources in Content
 When referencing a source in a country profile:
+
 * Use the source name in the footnote
 * Include dataset names, indicator codes, or table identifiers where possible
 * Include the year of the data
@@ -40,6 +42,7 @@ Example:
 
 == Adding a New Source
 To add a new source:
+
 . Update `sources/registry.yml`
 . Include licensing and attribution details
 . Reference the source consistently in content
@@ -47,6 +50,7 @@ To add a new source:
 
 == Deprecating Sources
 Sources may be deprecated if:
+
 * Licensing changes
 * Data quality degrades
 * Updates cease

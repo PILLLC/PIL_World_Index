@@ -62,6 +62,7 @@ Each value must include:
 
 == Extensibility
 Additional sections and indicators may be added over time, provided they:
+
 * Follow the style guide
 * Include sourcing
 * Are documented in this schema if they become standard

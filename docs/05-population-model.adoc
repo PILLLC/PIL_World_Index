@@ -1,0 +1,157 @@
+= Population Model
+:toc: macro
+:toclevels: 2
+
+The PIL World Index is populated through a deliberately constrained, auditable
+model designed to prioritize transparency, neutrality, and maintainability.
+
+This document describes *how* content enters the Index over time.
+It does not prescribe tooling or automation and does not imply real-time updates.
+
+toc::[]
+
+== Design Goals
+
+The population model is guided by the following goals:
+
+* No unsourced factual claims
+* Low long-term maintainer burden
+* Clear separation between data, context, and synthesis
+* Deterministic, reviewable changes between releases
+* Compatibility with human, dataset-driven, and AI-assisted inputs
+
+The Index treats population as an *infrastructure problem*, not a content problem.
+
+== Intake Lanes
+
+Content enters the Index through three conceptual lanes.
+All lanes converge into the same repository structure and release process.
+
+=== Lane A: Human Contributions (Pull Requests)
+
+This lane supports direct human-authored contributions.
+
+Typical inputs include:
+
+* New country or organization profiles
+* Expanded context sections
+* Relationship definitions
+* Source registry updates
+
+Requirements:
+
+* Must conform to canonical templates
+* Must include verifiable sources
+* Must remain descriptive, not prescriptive
+* Must pass structural and sourcing review
+
+All changes are submitted via Pull Request and reviewed prior to merge.
+
+=== Lane B: Dataset-Based Updates (Indicators)
+
+This lane supports systematic updates to quantitative indicators.
+
+Conceptually, this includes:
+
+* Population, GDP, and similar indicators
+* Values sourced from registered public datasets
+* Release-time snapshots rather than continuous sync
+
+Key principles:
+
+* Indicator updates do not alter narrative context
+* Every value is traceable to a dataset and access date
+* Changes are batched into releases for auditability
+
+This lane enables scale without turning the project into ongoing content operations.
+
+=== Lane C: AI-Assisted Synthesis (Bounded)
+
+AI assistance may be used to draft descriptive summaries or context sections,
+subject to strict constraints.
+
+AI assistance:
+
+* May summarize only registered, provided sources
+* May not introduce new facts or indicators
+* Produces output that is reviewable and replaceable
+* Is treated as a synthesis aid, not an authority
+
+All AI-generated content is committed as normal text and governed by the same review standards.
+
+== Release-Centric Population
+
+The Index is populated *by release*, not continuously.
+
+Each release represents:
+
+* A stable snapshot of content
+* A fixed set of sources as of publication time
+* Explicit versioning across all entities
+
+Population activity may occur between releases, but publication only occurs at release boundaries.
+
+== Quality Gates (Conceptual)
+
+The following quality gates define acceptance criteria.
+These may be enforced manually or via automation in the future.
+
+Structural validity:
+
+* Required metadata attributes present
+* Correct directory paths and naming
+* Tables conform to expected schemas
+
+Sourcing:
+
+* Numeric values are cited
+* Time-bound claims include dates and sources
+* Relationships include authoritative references
+
+Neutrality:
+
+* No advocacy or opinionated language
+* No forecasting or speculative claims
+* Descriptive tone only
+
+Release readiness:
+
+* Release identifiers updated
+* Last-updated fields populated
+* Sources documented
+
+== Scaling Strategy
+
+The Index is expected to grow in phases:
+
+. Gold-standard exemplars define expectations
+. Thin coverage expands breadth with minimal depth
+. Dataset-driven indicators scale coverage reliably
+. Contributors deepen context incrementally
+. Optional automation supports validation and reuse
+
+Depth is prioritized over breadth at early stages.
+
+== Stewardship
+
+Public Information Limited maintains:
+
+* Templates and schemas
+* Editorial and contribution standards
+* Release tagging and publication
+
+Contributors are encouraged to:
+
+* Fork and adapt the Index
+* Submit improvements via Pull Request
+* Use the structure for independent or downstream work
+
+Population is collaborative, but stewardship remains explicit.
+
+== Summary
+
+The PIL World Index is populated through controlled, source-bound inputs
+that favor auditability and reuse over speed or volume.
+
+The population model is intentionally conservative.
+Its purpose is to ensure the Index remains trustworthy as it scales.
