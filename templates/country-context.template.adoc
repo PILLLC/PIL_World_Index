@@ -1,0 +1,87 @@
+= {country-name} — Context Profile
+:iso3: {iso3}
+:iso2: {iso2}
+:wdid: {wdid}
+:last-updated: {last-updated}
+:release: {release}
+
+== Purpose and scope
+This context profile provides descriptive, non-advocacy background
+to supplement the country index indicators. It is intended to explain
+what is happening, why it matters, and what is being watched.
+
+Content may be AI-assisted but must not introduce unsourced factual claims.
+
+== Current context
+A short narrative overview of significant political, economic, security,
+or environmental conditions as of `{last-updated}`.
+
+== Governance and institutions
+=== Political system
+Describe the form of government, stability, and recent changes.
+
+=== Leadership
+Identify current leadership and succession context if relevant.
+
+=== Institutional capacity
+High-level descriptive assessment of administrative effectiveness and rule of law.
+
+== Economic context
+=== Economic trajectory
+Narrative description of growth, contraction, or transition trends.
+
+=== Key dependencies
+Critical exports, imports, or financial dependencies.
+
+=== Risk factors
+Inflation, debt stress, labor issues, or external exposure.
+
+== Social and demographic considerations
+=== Population dynamics
+Urbanization, aging, migration, displacement trends.
+
+=== Human development factors
+Education, healthcare access, inequality (descriptive, sourced).
+
+== Infrastructure and systems
+=== Energy and utilities
+Energy mix, reliability, constraints.
+
+=== Transportation and logistics
+Internal connectivity and external access.
+
+=== Digital and communications
+Telecom penetration, censorship, or cyber posture (if relevant).
+
+== Security and risk environment
+=== Internal security
+Crime, insurgency, unrest, or law enforcement capacity.
+
+=== External security
+Defense posture, alliances, or conflicts.
+
+=== Non-traditional risks
+Climate, disasters, food or water stress.
+
+== What to watch
+A short, forward-looking but non-predictive list of items observers are monitoring.
+
+* {watch-item-1}
+* {watch-item-2}
+* {watch-item-3}
+
+== Sources
+All claims must be traceable to registered sources.
+
+*Primary references:*
+* {src-1}
+* {src-2}
+
+*Supporting references:*
+* {src-3}
+* {src-4}
+
+== Notes and limitations
+* This profile reflects conditions as of `{last-updated}`.
+* Narrative sections summarize source material and may omit nuance.
+* Updates occur on a best-effort basis per release `{release}`.

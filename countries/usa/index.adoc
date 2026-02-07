@@ -1,0 +1,23 @@
+= United States
+:iso3: USA
+:iso2: US
+:wdid: Q30
+:last-updated: 2026-02-07
+:release: 2026.02.07
+
+== Overview
+United States is included in the PIL World Index as an MVP exemplar profile. This overview is intentionally conservative and should be replaced with a sourced summary once pipelines are connected. footnote:[Primary sources are tracked in the Sources Registry.]
+
+== Key Indicators
+[cols="1,1,1,1",options="header"]
+|===
+| Indicator | Value | Year | Source
+| Population | (TBD) | (TBD) | footnote:[World Bank, SP.POP.TOTL, (TBD).]
+| GDP (current US$) | (TBD) | (TBD) | footnote:[World Bank, NY.GDP.MKTP.CD, (TBD).]
+| GDP per capita (US$) | (TBD) | (TBD) | footnote:[World Bank, NY.GDP.PCAP.CD, (TBD).]
+|===
+
+== Sources & Notes
+* MVP placeholder values will be replaced by scripted data pulls.
+* Sources are documented in `/sources/registry.yml`.
+* This profile corresponds to release `2026.02.07`.

@@ -1,0 +1,76 @@
+= Ukraine — Context Profile
+:iso3: UKR
+:iso2: UA
+:wdid: Q212
+:last-updated: 2026-02-07
+:release: 2026.02.07
+
+== Purpose and scope
+This context profile supplements the index indicators with descriptive context.
+It is an MVP exemplar intended to validate structure, tone, and update workflow.
+
+== Current context
+(TBD) Replace with a sourced, neutral narrative covering salient governance, economic, security, and infrastructure context as of `2026-02-07`.
+
+== Governance and institutions
+=== Political system
+(TBD)
+
+=== Leadership
+(TBD)
+
+=== Institutional capacity
+(TBD)
+
+== Economic context
+=== Economic trajectory
+(TBD)
+
+=== Key dependencies
+(TBD)
+
+=== Risk factors
+(TBD)
+
+== Social and demographic considerations
+=== Population dynamics
+(TBD)
+
+=== Human development factors
+(TBD)
+
+== Infrastructure and systems
+=== Energy and utilities
+(TBD)
+
+=== Transportation and logistics
+(TBD)
+
+=== Digital and communications
+(TBD)
+
+== Security and risk environment
+=== Internal security
+(TBD)
+
+=== External security
+(TBD)
+
+=== Non-traditional risks
+(TBD)
+
+== What to watch
+* (TBD)
+* (TBD)
+* (TBD)
+
+== Sources
+*Primary references:*
+* (TBD — add source IDs from the Sources Registry)
+
+*Supporting references:*
+* (TBD)
+
+== Notes and limitations
+* MVP content is placeholder; do not treat as authoritative.
+* Replace all non-trivial statements with sourced claims.
