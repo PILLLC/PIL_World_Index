@@ -1,0 +1,32 @@
+:country-name: Canada
+:iso3: CAN
+:iso2: CA
+:wdid: Q16
+:region: Americas
+:subregion: North America
+:classification: sovereign_state
+:currency: Canadian Dollar (CAD)
+:capital: Ottawa
+:last-updated: 2026-02-08
+
+== Governance
+Canada operates under a federal parliamentary system in which executive authority
+is exercised by a prime minister and cabinet accountable to Parliament. Powers
+are divided between federal and provincial governments, with provinces holding
+significant responsibility for health, education, and social policy.
+
+== Economy
+Canada has a high-income, diversified economy that includes advanced services,
+manufacturing, and significant resource-based sectors. Economic performance is
+influenced by external trade, commodity markets, and productivity trends.
+
+== Demographics
+Population growth in Canada is driven primarily by immigration, with natural
+increase contributing a smaller share. Demographic patterns vary across regions
+and provinces.
+
+== Data Notes
+* National and subnational data are primarily produced by Statistics Canada.
+* Provincial data are generally robust; territorial data may be less granular.
+
+== Sources

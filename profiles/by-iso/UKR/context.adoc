@@ -1,0 +1,30 @@
+:country-name: Ukraine
+:iso3: UKR
+:iso2: UA
+:wdid: Q212
+:region: Europe
+:subregion: Eastern Europe
+:classification: sovereign_state
+:currency: Hryvnia (UAH)
+:capital: Kyiv
+:last-updated: 2026-02-08
+
+== Governance
+Ukraine is a unitary republic with a semi-presidential system. Executive authority
+is shared between the president and a cabinet led by a prime minister, with
+legislative authority vested in a unicameral parliament.
+
+== Economy
+Ukraine’s economy has historically included agriculture, heavy industry, and
+energy-related sectors. Economic conditions have been affected by structural
+reform processes and external disruptions.
+
+== Demographics
+Ukraine has experienced long-term population decline driven by low fertility,
+emigration, and mortality trends.
+
+== Data Notes
+* Data continuity may be affected by reporting disruptions and revisions.
+* Subnational data availability varies by indicator and period.
+
+== Sources

@@ -1,0 +1,10 @@
+= Germany
+include::context.adoc[]
+
+== Overview
+Germany is a federal parliamentary republic in Central Europe and a founding
+member of the European Union. It has the largest economy in Europe and is a major
+global exporter of industrial goods and services.
+
+== Sources
+include::../../../docs/02-sources-registry.adoc[]

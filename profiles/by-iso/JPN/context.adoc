@@ -1,0 +1,31 @@
+:country-name: Japan
+:iso3: JPN
+:iso2: JP
+:wdid: Q17
+:region: Asia
+:subregion: East Asia
+:classification: sovereign_state
+:currency: Japanese Yen (JPY)
+:capital: Tokyo
+:last-updated: 2026-02-08
+
+== Governance
+Japan is a constitutional monarchy with a parliamentary system. Executive
+authority is exercised by a prime minister and cabinet responsible to the
+National Diet. Administrative authority is relatively centralized.
+
+== Economy
+Japan has a high-income, diversified economy with strengths in manufacturing,
+technology, services, and finance. Long-term trends are shaped by demographic
+change and productivity dynamics.
+
+== Demographics
+Japan has one of the world’s most rapidly aging populations, driven by low
+fertility rates and high life expectancy.
+
+== Data Notes
+* National data are produced by Japanese statistical authorities and international
+  organizations.
+* Subnational data are available but vary in frequency.
+
+== Sources

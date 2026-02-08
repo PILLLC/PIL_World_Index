@@ -1,28 +1,11 @@
-= United States
-:iso3: USA
-:iso2: US
-:wdid: Q30
-:last-updated: 2026-02-06
-:release: 2026.02
+= United States of America
+include::context.adoc[]
 
 == Overview
-The United States is a federal republic located primarily in North America,
-consisting of 50 states, a federal district, and several territories. It is one
-of the world’s largest economies and among the most populous countries, with
-global influence across political, economic, military, and cultural domains.
-footnote:[World Bank Open Data; UNData.]
+The United States of America is a federal republic in North America consisting of
+fifty states, a federal district, and several territories. It is one of the
+world’s largest economies and plays a significant role in global political,
+economic, and security affairs.
 
-== Key Indicators
-[cols="1,1,1,1",options="header"]
-|===
-| Indicator | Value | Year | Source
-| Population | TBD | TBD | footnote:[World Bank Open Data, SP.POP.TOTL.]
-| GDP (current US$) | TBD | TBD | footnote:[World Bank Open Data, NY.GDP.MKTP.CD.]
-| GDP per capita (US$) | TBD | TBD | footnote:[World Bank Open Data, NY.GDP.PCAP.CD.]
-|===
-
-== Sources & Notes
-* Indicator values will be populated from registered sources during automated
-  generation steps.
-* Narrative content is descriptive and subject to revision as sources update.
-* This profile corresponds to release `2026.02`.
+== Sources
+include::../../../docs/02-sources-registry.adoc[]

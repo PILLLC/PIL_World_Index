@@ -1,0 +1,30 @@
+:country-name: Germany
+:iso3: DEU
+:iso2: DE
+:wdid: Q183
+:region: Europe
+:subregion: Western Europe
+:classification: sovereign_state
+:currency: Euro (EUR)
+:capital: Berlin
+:last-updated: 2026-02-08
+
+== Governance
+Germany is a federal parliamentary republic composed of sixteen Länder (states).
+Executive authority is exercised by a chancellor-led government accountable to
+the Bundestag, with the Bundesrat representing state interests.
+
+== Economy
+Germany maintains a highly diversified, export-oriented economy with strong
+manufacturing, engineering, and services sectors. It plays a central role in
+European and global supply chains.
+
+== Demographics
+Germany has an aging population profile, with net migration contributing
+significantly to population stability in recent decades.
+
+== Data Notes
+* Many indicators are harmonized at the EU level.
+* Subnational data availability varies by Land.
+
+== Sources

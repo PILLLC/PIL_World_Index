@@ -66,9 +66,9 @@ footnote:[Primary sources listed in the Sources Registry.]
 [cols="1,1,1,1",options="header"]
 |===
 | Indicator | Value | Year | Source
-| Population | {population} | {population-year} | footnote:[World Bank, SP.POP.TOTL, {population-year}.]
-| GDP (current US$) | {gdp} | {gdp-year} | footnote:[World Bank, NY.GDP.MKTP.CD, {gdp-year}.]
-| GDP per capita (US$) | {gdp-per-capita} | {gdp-per-capita-year} | footnote:[World Bank, NY.GDP.PCAP.CD, {gdp-per-capita-year}.]
+| Population | {population} | {population-year} | footnote:[World Bank Open Data, SP.POP.TOTL, {population-year}.]
+| GDP (current US$) | {gdp} | {gdp-year} | footnote:[World Bank Open Data, NY.GDP.MKTP.CD, {gdp-year}.]
+| GDP per capita (US$) | {gdp-per-capita} | {gdp-per-capita-year} | footnote:[World Bank Open Data, NY.GDP.PCAP.CD, {gdp-per-capita-year}.]
 |===
 
 == Sources & Notes
@@ -204,9 +204,9 @@ ${name} is included in the PIL World Index as an MVP exemplar profile. This over
 [cols="1,1,1,1",options="header"]
 |===
 | Indicator | Value | Year | Source
-| Population | (TBD) | (TBD) | footnote:[World Bank, SP.POP.TOTL, (TBD).]
-| GDP (current US$) | (TBD) | (TBD) | footnote:[World Bank, NY.GDP.MKTP.CD, (TBD).]
-| GDP per capita (US$) | (TBD) | (TBD) | footnote:[World Bank, NY.GDP.PCAP.CD, (TBD).]
+| Population | (TBD) | (TBD) | footnote:[World Bank Open Data, SP.POP.TOTL, (TBD).]
+| GDP (current US$) | (TBD) | (TBD) | footnote:[World Bank Open Data, NY.GDP.MKTP.CD, (TBD).]
+| GDP per capita (US$) | (TBD) | (TBD) | footnote:[World Bank Open Data, NY.GDP.PCAP.CD, (TBD).]
 |===
 
 == Sources & Notes

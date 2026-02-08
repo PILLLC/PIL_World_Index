@@ -1,0 +1,10 @@
+= Japan
+include::context.adoc[]
+
+== Overview
+Japan is an island nation in East Asia with a highly developed economy and a
+parliamentary system of government. It is a major participant in global trade,
+finance, and multilateral institutions.
+
+== Sources
+include::../../../docs/02-sources-registry.adoc[]

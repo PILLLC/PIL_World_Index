@@ -1,0 +1,10 @@
+= Canada
+include::context.adoc[]
+
+== Overview
+Canada is a federal parliamentary democracy and constitutional monarchy in North
+America. It is a high-income country with extensive natural resources, advanced
+services, and deep integration into global trade and multilateral institutions.
+
+== Sources
+include::../../../docs/02-sources-registry.adoc[]

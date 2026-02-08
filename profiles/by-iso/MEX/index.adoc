@@ -1,0 +1,10 @@
+= Mexico
+include::context.adoc[]
+
+== Overview
+Mexico is a federal presidential republic in North America with a large,
+diversified economy and extensive trade and manufacturing integration across the
+Americas.
+
+== Sources
+include::../../../docs/02-sources-registry.adoc[]

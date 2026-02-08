@@ -1,0 +1,30 @@
+:country-name: Mexico
+:iso3: MEX
+:iso2: MX
+:wdid: Q96
+:region: Americas
+:subregion: North America
+:classification: sovereign_state
+:currency: Mexican Peso (MXN)
+:capital: Mexico City
+:last-updated: 2026-02-08
+
+== Governance
+Mexico is a federal presidential republic with authority divided among executive,
+legislative, and judicial branches. States and municipalities exercise varying
+degrees of administrative responsibility.
+
+== Economy
+Mexico’s economy includes manufacturing, services, energy, and agriculture, with
+strong integration into regional supply chains. Informal economic activity
+affects some labor and income measures.
+
+== Demographics
+Mexico has a comparatively younger population than many OECD countries, though
+fertility rates have declined steadily over time.
+
+== Data Notes
+* National and international sources may differ in estimates due to informality.
+* Regional disparities are significant across states.
+
+== Sources

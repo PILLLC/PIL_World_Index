@@ -1,0 +1,10 @@
+= Ukraine
+include::context.adoc[]
+
+== Overview
+Ukraine is a sovereign state in Eastern Europe with a large land area and
+significant agricultural and industrial capacity. Its geographic position has
+long shaped regional economic and security dynamics.
+
+== Sources
+include::../../../docs/02-sources-registry.adoc[]
