@@ -1,42 +1,54 @@
-version: 0.1
+version: 0.2
 
 sources:
   - id: world_bank
     name: World Bank Open Data
     type: api
+    tier: 1
+    scope: economic, demographic, development
     url: https://data.worldbank.org/
-    license: "CC BY 4.0 (confirm per dataset)"
+    license: "CC BY 4.0 (confirm per indicator dataset)"
     refresh: monthly
     notes: >
-      Use indicator codes (e.g., SP.POP.TOTL).
+      Use official indicator codes (e.g., SP.POP.TOTL).
       Attribute dataset name, indicator code, and year in citations.
+      Preferred primary source for cross-country economic and population indicators.
 
   - id: undata
     name: UNData
     type: portal
+    tier: 1
+    scope: demographic, social, environmental
     url: https://data.un.org/
-    license: "Varies by dataset"
+    license: "Varies by dataset and agency"
     refresh: quarterly
     notes: >
       Prefer direct UN agency datasets where possible.
-      Include agency name (e.g., UN DESA) when known.
+      Include agency name (e.g., UN DESA, UNESCO) when known.
+      Used when World Bank indicators are unavailable or insufficient.
 
   - id: who
     name: World Health Organization
     type: portal
+    tier: 2
+    scope: health, mortality, life_expectancy
     url: https://www.who.int/data
     license: "Varies by dataset"
     refresh: annual
     notes: >
-      Common indicators include life expectancy and health system metrics.
+      Common indicators include life expectancy, mortality, and health system metrics.
       Cite dataset title and publication year.
+      Not authoritative for non-health indicators.
 
   - id: itut
     name: International Telecommunication Union
     type: portal
+    tier: 2
+    scope: telecommunications, internet, digital_access
     url: https://www.itu.int/en/ITU-D/Statistics
     license: "Varies by dataset"
     refresh: annual
     notes: >
       Used for telecom and internet usage indicators.
       Include indicator name and year in citations.
+      Prefer ITU over secondary aggregators for ICT metrics.
